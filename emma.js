@@ -97,7 +97,7 @@ function sendToWhatsApp() {
   }
 
   // Your WhatsApp number
-  const phone = '2348012345678';
+  const phone = '2347026383171';
 
   // Build the message
   const text =
